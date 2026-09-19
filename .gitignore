@@ -18,4 +18,3 @@ oidc
 /benchmark-environment.json
 
 /scripts/steady/.cache/
-.DS_Store
